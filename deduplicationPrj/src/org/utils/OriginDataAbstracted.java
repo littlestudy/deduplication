@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
 
-public class DataAbstract {
+public class OriginDataAbstracted {
 	public static void main(String[] args) {		
 		String originFile = "/home/ym/ytmp/data/0701";
 		String savedFile = "/home/ym/ytmp/data/dedup/0701.part";

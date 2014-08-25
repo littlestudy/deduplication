@@ -46,8 +46,8 @@ public class GeneralSort {
 	}
 	
 	public static void runJob() throws Exception{
-		String input = "file:///home/ym/ytmp/data/n1";
-		String output = "file:///home/ym/ytmp/output/n1s";
+		String input = "file:///home/ym/ytmp/data/0701.11";
+		String output = "file:///home/ym/ytmp/output/0701.11s2";
 		
 		Configuration conf = new Configuration();
 		
